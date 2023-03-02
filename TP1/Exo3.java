@@ -6,7 +6,7 @@ package infof205.tp1;
 
 /**
  *
- * @author yassin
+ * @author Talhaoui Yassin
  */
 public class Exo3 {
 
